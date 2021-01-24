@@ -5,7 +5,7 @@ The project is named labproject which acts as a bridge between users and restaur
 
 ++ Objective:
 i. Web based application for online browsing and search of menu aggregated from multiple restaurants e.g., the services provided by commercial websites like www.zomato.com, www.just-eat.com . 
-ii. Customers can order food delivery online. Orders are to be forwarded to respective restaurants, who will deliver the food and bill the customers. Users of the System:
+ii. Customers can order food delivery online. Orders are to be forwarded to respective restaurants, who will deliver the food and bill the customers. Users of the System :
   A. System Administrator
   B. Restaurants
   C. Customers
