@@ -19,7 +19,7 @@ Changes that should be made in settings.py file
 
 After making the changes type the following commands in your system
 
-python manage.py makemigrations
-python manage.py migrate
-python manage.py collectstatic
-python manage.py runserver // Server starts running. look at the website in localhost
+1) python manage.py makemigrations
+2) python manage.py migrate
+3) python manage.py collectstatic
+4) python manage.py runserver // Server starts running. look at the website in localhost
